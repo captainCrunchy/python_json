@@ -1,0 +1,47 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "age": 25,
+    "hobbies": {
+        "outdoors": {
+            "dry_sports": "shooting",
+            "wet_sports": "fishing",
+            "guns": {
+                "9 mm": [
+                    "P365",
+                    "P365 X Macro",
+                    "P320"
+                ],
+                ".380": "Smith & Wesson"
+            }
+        },
+        "indoors": [
+            "computers",
+            "carpentry",
+            "gun cleaning",
+            "watching comedy"
+        ]
+    },
+    "friends": [
+        {
+            "Trump": "president"
+        },
+        {
+            "Superman": "man of steel"
+        },
+        {
+            "Apostles": {
+                "old_testament": "Noah",
+                "new_testament": [
+                    "Matthew",
+                    "Mark",
+                    "Luke",
+                    "Paul",
+                    "John"
+                ]
+            }
+        },
+        "Jesus",
+        "Moses"
+    ]
+}
